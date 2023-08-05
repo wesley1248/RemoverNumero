@@ -17,7 +17,7 @@ O ultimo caso de teste é seguido por uma linha que contém apenas dois zeros se
 Para cada caso de teste da entrada o seu programa deve imprimir uma linha contendo um único inteiro V, o valor numérico representado de fato no contrato.
 
 # Exemplo de Entrada	
-## 5 5000000
+### 5 5000000
 
 3 123456
 
