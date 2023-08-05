@@ -16,19 +16,14 @@ O ultimo caso de teste é seguido por uma linha que contém apenas dois zeros se
 # Saída
 Para cada caso de teste da entrada o seu programa deve imprimir uma linha contendo um único inteiro V, o valor numérico representado de fato no contrato.
 
-## Exemplo de Entrada	
-5 5000000
-3 123456
-9 23454324543423
-9 99999999991999999
-7 777
-0 0
+# Exemplo de Entrada	
+## 5 5000000
+## 3 123456
+
 
 ## Exemplo de Saída
-0
-12456
-23454324543423
-1
-0
+## 0
+## 12456
+
 
 
