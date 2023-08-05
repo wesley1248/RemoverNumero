@@ -18,7 +18,8 @@ Para cada caso de teste da entrada o seu programa deve imprimir uma linha conten
 
 # Exemplo de Entrada	
 ## 5 5000000
-## 3 123456
+
+3 123456
 
 
 ## Exemplo de Saída
